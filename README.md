@@ -1,7 +1,4 @@
-At DBI IT we treat architecture as a competency for all members of the
-development team, not just the responsibility of the Architects. Our engineers
-are challenged every day to think critically about solution design and make
-smart technology decisions.
+As a DBI engineer, you'll be asked to think critically about solution design as part of your everyday job. We treat architecture as a competency for all members of the team, not just the responsibility of the Architect position. It's up to each member of the team to break down problems and make smart technology decisions.
 
 This prompt is designed to gauge your critical thinking when it comes to
 architecting a solution.
@@ -33,9 +30,11 @@ API.
 Take 5 minutes to evaluate the requirements, form a response, and take any
 personal notes.
 
-Then, please verbally describe your proposed solution, the approach you would
-take to solve the problem, and any special considerations or decision points
-that are worth emphasizing.
+Feel free to ask questions to narrow down the requirements and context of the solution environment.
+
+Then, please verbally describe your proposed solution and any special considerations or decision points that are worth emphasizing.
+
+There's no right answer here. It's not a presentation, but a collaborative discussion. Simply share what goes through your head as you tackle this problem.
 
 You do not need to provide specific tools, documentation, or diagrams.
 
