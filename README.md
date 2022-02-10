@@ -50,3 +50,4 @@ You'll be evaluated on the following criteria:
 - Evaluation of multiple possible approaches
 - Consideration of external dependencies
 - Recognition of decision points
+- Identification of missing information
