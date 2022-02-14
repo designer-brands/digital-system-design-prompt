@@ -15,9 +15,11 @@ We'd like you to design a messaging system with us that can deliver SMS, email, 
 Take 5 minutes to evaluate the requirements, form a response, and take any
 personal notes. Feel free to ask questions to narrow down the requirements and context of the solution environment.
 
-Then, please verbally describe your proposed solution and any special considerations or decision points that are worth emphasizing.
+Then, please verbally describe your proposed solution and any special
+considerations or decision points that are worth emphasizing.
 
-There's no right answer here. It's not a presentation, but a collaborative discussion. Simply share what goes through your head as you tackle this problem.
+There's no right answer here. It's not a presentation, but a collaborative
+discussion. Simply share what goes through your head as you tackle this problem.
 
 You do not need to provide specific tools, documentation, or diagrams.
 
